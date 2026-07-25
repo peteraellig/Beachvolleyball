@@ -181,3 +181,8 @@ package directory.
 This is a purpose-built broadcast production tool. It is provided as-is and
 should be tested with the exact vMix version, graphics package, and production
 workflow used at the venue.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. See
+[`LICENSE`](LICENSE) for the full license text.
