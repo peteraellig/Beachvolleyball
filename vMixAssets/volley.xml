@@ -1,0 +1,211 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Tabelle">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="CountryL" type="xs:string" minOccurs="0" />
+                <xs:element name="CountryS" type="xs:string" minOccurs="0" />
+                <xs:element name="NAME1" type="xs:string" minOccurs="0" />
+                <xs:element name="First_Name1" type="xs:string" minOccurs="0" />
+                <xs:element name="Age1" type="xs:string" minOccurs="0" />
+                <xs:element name="Height1" type="xs:string" minOccurs="0" />
+                <xs:element name="Data1_1" type="xs:string" minOccurs="0" />
+                <xs:element name="Data2_1" type="xs:string" minOccurs="0" />
+                <xs:element name="NAME2" type="xs:string" minOccurs="0" />
+                <xs:element name="First_Name2" type="xs:string" minOccurs="0" />
+                <xs:element name="Age2" type="xs:string" minOccurs="0" />
+                <xs:element name="Height2" type="xs:string" minOccurs="0" />
+                <xs:element name="Data1_2" type="xs:string" minOccurs="0" />
+                <xs:element name="Data2_2" type="xs:string" minOccurs="0" />
+                <xs:element name="Fact1" type="xs:string" minOccurs="0" />
+                <xs:element name="Fact2" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="Settings">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="SettingName" type="xs:string" minOccurs="0" />
+                <xs:element name="SettingValue" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Tabelle>
+    <CountryL>Germany</CountryL>
+    <CountryS>GER</CountryS>
+    <NAME1>Branch</NAME1>
+    <First_Name1>Erwin</First_Name1>
+    <Age1>28</Age1>
+    <Height1>180</Height1>
+    <Data1_1>Data1_A</Data1_1>
+    <Data2_1>Data1_B</Data2_1>
+    <NAME2>Walter</NAME2>
+    <First_Name2>Lukas</First_Name2>
+    <Age2>26</Age2>
+    <Height2>175</Height2>
+    <Data1_2>Data2_A</Data1_2>
+    <Data2_2>Data2_B</Data2_2>
+    <Fact1>Interesting Fact 1</Fact1>
+    <Fact2>Interesting Fact 2</Fact2>
+  </Tabelle>
+  <Tabelle>
+    <CountryL>Belgium</CountryL>
+    <CountryS>BEL</CountryS>
+    <NAME1>Garner</NAME1>
+    <First_Name1>Robin</First_Name1>
+    <Age1>30</Age1>
+    <Height1>185</Height1>
+    <Data1_1>Data3_A</Data1_1>
+    <Data2_1>Data3_B</Data2_1>
+    <NAME2>Gutierrez</NAME2>
+    <First_Name2>Burl</First_Name2>
+    <Age2>29</Age2>
+    <Height2>180</Height2>
+    <Data1_2>Data4_A</Data1_2>
+    <Data2_2>Data4_B</Data2_2>
+    <Fact1>Interesting Fact 3</Fact1>
+    <Fact2>Interesting Fact 4</Fact2>
+  </Tabelle>
+  <Tabelle>
+    <CountryL>Portugal</CountryL>
+    <CountryS>POR</CountryS>
+    <NAME1>Rollins</NAME1>
+    <First_Name1>Douglass</First_Name1>
+    <Age1>35</Age1>
+    <Height1>190</Height1>
+    <Data1_1>Data5_A</Data1_1>
+    <Data2_1>Data5_B</Data2_1>
+    <NAME2>Wagner</NAME2>
+    <First_Name2>Irwin</First_Name2>
+    <Age2>32</Age2>
+    <Height2>185</Height2>
+    <Data1_2>Data6_A</Data1_2>
+    <Data2_2>Data6_B</Data2_2>
+    <Fact1>Interesting Fact 5</Fact1>
+    <Fact2>Interesting Fact 6</Fact2>
+  </Tabelle>
+  <Tabelle>
+    <CountryL>Italy</CountryL>
+    <CountryS>ITA</CountryS>
+    <NAME1>Sheppard</NAME1>
+    <First_Name1>Giovanni</First_Name1>
+    <Age1>27</Age1>
+    <Height1>175</Height1>
+    <Data1_1>Data7_A</Data1_1>
+    <Data2_1>Data7_B</Data2_1>
+    <NAME2>Stokes</NAME2>
+    <First_Name2>Cortez</First_Name2>
+    <Age2>28</Age2>
+    <Height2>180</Height2>
+    <Data1_2>Data8_A</Data1_2>
+    <Data2_2>Data8_B</Data2_2>
+    <Fact1>Interesting Fact 7</Fact1>
+    <Fact2>Interesting Fact 8</Fact2>
+  </Tabelle>
+  <Tabelle>
+    <CountryL>Czechia</CountryL>
+    <CountryS>CZE</CountryS>
+    <NAME1>Conner</NAME1>
+    <First_Name1>Graciela</First_Name1>
+    <Age1>26</Age1>
+    <Height1>170</Height1>
+    <Data1_1>Data9_A</Data1_1>
+    <Data2_1>Data9_B</Data2_1>
+    <NAME2>Murray</NAME2>
+    <First_Name2>Marci</First_Name2>
+    <Age2>24</Age2>
+    <Height2>165</Height2>
+    <Data1_2>Data10_A</Data1_2>
+    <Data2_2>Data10_B</Data2_2>
+    <Fact1>Interesting Fact 9</Fact1>
+    <Fact2>Interesting Fact 10</Fact2>
+  </Tabelle>
+  <Tabelle>
+    <CountryL>Ukraine</CountryL>
+    <CountryS>UKR</CountryS>
+    <NAME1>Wagner</NAME1>
+    <First_Name1>Lina</First_Name1>
+    <Age1>29</Age1>
+    <Height1>168</Height1>
+    <Data1_1>Data11_A</Data1_1>
+    <Data2_1>Data11_B</Data2_1>
+    <NAME2>Mccarty</NAME2>
+    <First_Name2>Madge</First_Name2>
+    <Age2>27</Age2>
+    <Height2>160</Height2>
+    <Data1_2>Data12_A</Data1_2>
+    <Data2_2>Data12_B</Data2_2>
+    <Fact1>Interesting Fact 11</Fact1>
+    <Fact2>Interesting Fact 12</Fact2>
+  </Tabelle>
+  <Tabelle>
+    <CountryL>Sweden</CountryL>
+    <CountryS>SWE</CountryS>
+    <NAME1>Arellano</NAME1>
+    <First_Name1>Carolyn</First_Name1>
+    <Age1>31</Age1>
+    <Height1>170</Height1>
+    <Data1_1>Data13_A</Data1_1>
+    <Data2_1>Data13_B</Data2_1>
+    <NAME2>Woods</NAME2>
+    <First_Name2>Kaitlin</First_Name2>
+    <Age2>30</Age2>
+    <Height2>165</Height2>
+    <Data1_2>Data14_A</Data1_2>
+    <Data2_2>Data14_B</Data2_2>
+    <Fact1>Interesting Fact 13</Fact1>
+    <Fact2>Interesting Fact 14</Fact2>
+  </Tabelle>
+  <Tabelle>
+    <CountryL>Montenegro</CountryL>
+    <CountryS>MNE</CountryS>
+    <NAME1>Gross</NAME1>
+    <First_Name1>Margret</First_Name1>
+    <Age1>33</Age1>
+    <Height1>172</Height1>
+    <Data1_1>Data15_A</Data1_1>
+    <Data2_1>Data15_B</Data2_1>
+    <NAME2>Rodriguez</NAME2>
+    <First_Name2>Thelma</First_Name2>
+    <Age2>32</Age2>
+    <Height2>168</Height2>
+    <Data1_2>Data16_A</Data1_2>
+    <Data2_2>Data16_B</Data2_2>
+    <Fact1>Interesting Fact 15</Fact1>
+    <Fact2>Interesting Fact 16</Fact2>
+  </Tabelle>
+  <Tabelle>
+    <CountryL>Switzerland</CountryL>
+    <CountryS>SUI</CountryS>
+    <NAME1>Meier</NAME1>
+    <First_Name1>Liam</First_Name1>
+    <Age1>24</Age1>
+    <Height1>182</Height1>
+    <Data1_1>Data17_A</Data1_1>
+    <Data2_1>Data17_B</Data2_1>
+    <NAME2>Schmid</NAME2>
+    <First_Name2>Mattheo</First_Name2>
+    <Age2>26</Age2>
+    <Height2>198</Height2>
+    <Data1_2>Data18_A</Data1_2>
+    <Data2_2>Data18_B</Data2_2>
+    <Fact1>Interesting Fact 17</Fact1>
+    <Fact2>Interesting Fact 18</Fact2>
+  </Tabelle>
+  <Settings>
+    <SettingName>HomeTeam</SettingName>
+    <SettingValue>Germany</SettingValue>
+  </Settings>
+  <Settings>
+    <SettingName>AwayTeam</SettingName>
+    <SettingValue>Belgium</SettingValue>
+  </Settings>
+</NewDataSet>

@@ -1,0 +1,69 @@
+<Settings>
+  <Setting1>21</Setting1>
+  <Setting2>21</Setting2>
+  <Setting3>15</Setting3>
+  <Setting4>Beachvolley Pro Tour</Setting4>
+  <Setting5>FFFF00</Setting5>
+  <Setting6>00FF40</Setting6>
+  <Setting7>Jonas Personeni, Referee</Setting7>
+  <Setting8>Miguel Quintana, Assistant Referee</Setting8>
+  <Setting9>John Miller, commentator</Setting9>
+  <Setting10>Jack Armstrong, co-commentator</Setting10>
+  <Setting11>C:\VMIX\beachvolleyball\titles\volley_lower_player_1l.gtzip</Setting11>
+  <Setting12>C:\VMIX\beachvolleyball\titles\volley_lower_player_2l_info.gtzip</Setting12>
+  <Setting13>C:\VMIX\beachvolleyball\titles\volley_scorebug.gtzip</Setting13>
+  <Setting14>C:\VMIX\beachvolleyball\titles\volley_large_result.gtzip</Setting14>
+  <Setting15>
+  </Setting15>
+  <Setting16>C:\VMIX\beachvolleyball\titles\volley_lower_teamname.gtzip</Setting16>
+  <Setting17>C:\VMIX\beachvolleyball\titles\volley_match_id.gtzip</Setting17>
+  <Setting18>C:\VMIX\beachvolleyball\titles\volley_lower_1l.gtzip</Setting18>
+  <Setting19>C:\VMIX\beachvolleyball\titles\volley_lower_2l.gtzip</Setting19>
+  <Setting20>C:\VMIX\beachvolleyball\titles\volley_weather.gtzip</Setting20>
+  <Setting21>C:\VMIX\beachvolleyball\titles\volley_table.gtzip</Setting21>
+  <Setting22>C:\VMIX\beachvolleyball\titles\volley_openingtitle.gtzip</Setting22>
+  <Setting23>C:\VMIX\beachvolleyball\titles\volley_intro_venue.gtzip</Setting23>
+  <Setting24>C:\VMIX\beachvolleyball\titles\volley_tournament.gtzip</Setting24>
+  <Setting25>C:\VMIX\beachvolleyball\titles\volley_closingtitle.gtzip</Setting25>
+  <Setting26>
+  </Setting26>
+  <Setting27>C:\vmix\Beachvolleyball\stationlogo\stationlogo.gtzip</Setting27>
+  <Setting28>C:\VMIX\beachvolleyball\titles\volley_start_satellite.gtzip</Setting28>
+  <Setting29>C:\VMIX\beachvolleyball\titles\volley_start_transmission.gtzip</Setting29>
+  <Setting30>C:\VMIX\beachvolleyball\titles\volley_countdown.gtzip</Setting30>
+  <Setting31>C:\VMIX\beachvolleyball\titles\volley_end_transmission.gtzip</Setting31>
+  <Setting32>C:\VMIX\beachvolleyball\titles\volley_end_playout.gtzip</Setting32>
+  <Setting33>C:\vmix\Beachvolleyball\advertising\ecopower.gtzip</Setting33>
+  <Setting34>C:\VMIX\beachvolleyball\advertising\innovatech.gtzip</Setting34>
+  <Setting35>C:\VMIX\beachvolleyball\advertising\pureessence.gtzip</Setting35>
+  <Setting36>C:\VMIX\beachvolleyball\advertising\vitaglow.gtzip</Setting36>
+  <Setting37>
+  </Setting37>
+  <Setting38>
+  </Setting38>
+  <Setting39>
+  </Setting39>
+  <Setting40>
+  </Setting40>
+  <Setting41>
+  </Setting41>
+  <Setting42>C:\VMIX\beachvolleyball\weatherLogos\cloudy.png</Setting42>
+  <Setting43>35 °C</Setting43>
+  <Setting44>S 3 km/h</Setting44>
+  <Setting45>22 %</Setting45>
+  <Setting46>John Smith, President</Setting46>
+  <Setting47>Emily Johnson, Secretary General</Setting47>
+  <Setting48>David Brown, Athlete Development Manager</Setting48>
+  <Setting49>Sarah Davis, Coaching Director</Setting49>
+  <Setting50>Michael Wilson, Community Outreach Coordinator</Setting50>
+  <CheckBox1>False</CheckBox1>
+  <CheckBox2>False</CheckBox2>
+  <CheckBox3>False</CheckBox3>
+  <CheckBox4>True</CheckBox4>
+  <CheckBox5>False</CheckBox5>
+  <CheckBox6>False</CheckBox6>
+  <CheckBox7>True</CheckBox7>
+  <Setting_IP>localhost</Setting_IP>
+  <Setting_PortHTTP>8088</Setting_PortHTTP>
+  <Setting_PortTCP>8099</Setting_PortTCP>
+</Settings>
